@@ -95,6 +95,10 @@ function Services() {
         {
             title: 'Technology Training',
             description: 'Enhance your team’s skills with our expert-led technology training in the latest industry standards.'
+        },
+        {
+            title: 'AI Services',
+            description: 'We do AI based services such as security, assistant, voice, recognizer etc. '
         }
     ];
 
